@@ -1,2 +1,2 @@
 # netflix-originals
-Analysis of Netflix original films up to June 1st, 2021.
+Correlation analysis of Netflix data using python.
